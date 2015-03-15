@@ -1,0 +1,5 @@
+- build a fast website
+- add design
+- maintain website speed
+- make it mobile friendly
+- add content
