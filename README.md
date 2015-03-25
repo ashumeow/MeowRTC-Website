@@ -1,6 +1,6 @@
 ## Official MeowRTC Website
 
-The website is dedicated to <a href="https://github.com/ashumeow/MeowRTC">MeowRTC repo</a> which is built using 
+The <a href="http://meowrtc.geekresearchlab.net/">website</a> is dedicated to <a href="https://github.com/ashumeow/MeowRTC">MeowRTC repo</a> which is built using 
 <a href="https://github.com/ashumeow/MeowRTC-Website/blob/master/meowrtc.css">Customized CSS</a>,
  <a href="https://github.com/twbs/bootstrap">bootstrap</a>,
  <a href="https://github.com/FortAwesome/Font-Awesome">fonts awesome</a> and
