@@ -7,3 +7,5 @@ The website is dedicated to <a href="https://github.com/ashumeow/MeowRTC">MeowRT
  <a href="https://github.com/jquery/jquery">jQuery</a>. <br>
  The site loads faster in both desktop and mobile making it fast responsive-friendly for the users who are accessing this site.
   (^_^)
+<br><br>
+Under <a href="https://github.com/ashumeow/MeowRTC-Website/blob/master/LICENSE">MIT License</a>.
